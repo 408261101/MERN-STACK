@@ -1,0 +1,22 @@
+{
+  "cart-items": [
+    {
+      "name": "波士頓奶油派",
+      "price": 300,
+      "imageURL": "https://i.imgur.com/f6z9qaj.png?1",
+      "id": 3
+    },
+    {
+      "name": "巧克愛攪和",
+      "price": 310,
+      "imageURL": "https://i.imgur.com/5JJryft.png?1",
+      "id": 4
+    },
+    {
+      "name": "草夠了莓",
+      "price": 320,
+      "imageURL": "https://i.imgur.com/URBKH1h.png?1",
+      "id": 5
+    }
+  ]
+}
